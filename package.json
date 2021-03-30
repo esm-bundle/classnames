@@ -1,7 +1,7 @@
 {
-  "name": "@esm-bundle/autopublish-template",
-  "version": "20.0.20",
-  "description": "Repo to test esm-bundle's automatic publishing",
+  "name": "@esm-bundle/classnames",
+  "version": "0.0.0-unpublished.0",
+  "description": "An ESM version of classnames",
   "main": "index.js",
   "module": "esm/index.js",
   "type": "module",
@@ -24,19 +24,19 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/esm-bundle/autopublish-template.git"
+    "url": "git+https://github.com/esm-bundle/classnames.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/esm-bundle/autopublish-template/issues"
+    "url": "https://github.com/esm-bundle/classnames/issues"
   },
-  "homepage": "https://github.com/esm-bundle/autopublish-template#readme",
+  "homepage": "https://github.com/esm-bundle/classnames#readme",
   "devDependencies": {
     "@rollup/plugin-commonjs": "18.0.0",
     "@rollup/plugin-node-resolve": "11.2.1",
-    "autopublish-template": "20.0.20",
     "chai": "4.3.4",
+    "classnames": "^2.2.6",
     "concurrently": "6.0.0",
     "husky": "6.0.0",
     "karma": "6.3.2",

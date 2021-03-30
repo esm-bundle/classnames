@@ -1,4 +1,4 @@
-# autopublish-template
+# classnames
 
 [![npm version](https://img.shields.io/npm/v/@esm-bundle/autopublish-template.svg?style=flat)](https://www.npmjs.com/package/@esm-bundle/autopublish-template) [![build status](https://travis-ci.com/esm-bundle/autopublish-template.svg?branch=master)](https://travis-ci.com/esm-bundle/autopublish-template) [![](https://data.jsdelivr.com/v1/package/npm/@esm-bundle/autopublish-template/badge)](https://www.jsdelivr.com/package/npm/@esm-bundle/autopublish-template)
 
@@ -8,7 +8,7 @@
 
 A repo that tests automatic detection of upstream publishes and the publishing of `@esm-bundle` versions of them.
 
-Upstream repo at https://github.com/joeldenning/autopublish-template.
+Upstream repo at [https://github.com/JedWatson/classnames](https://github.com/JedWatson/classnames).
 
 ## JS Delivr
 
