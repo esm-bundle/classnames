@@ -1,8 +1,8 @@
 devDependencies:
   '@rollup/plugin-commonjs': 18.0.0_rollup@2.44.0
   '@rollup/plugin-node-resolve': 11.2.1_rollup@2.44.0
-  autopublish-template: 20.0.20
   chai: 4.3.4
+  classnames: 2.2.6
   concurrently: 6.0.0
   husky: 6.0.0
   karma: 6.3.2
@@ -427,10 +427,6 @@ packages:
     dev: true
     resolution:
       integrity: sha1-x57Zf380y48robyXkLzDZkdLS3k=
-  /autopublish-template/20.0.20:
-    dev: true
-    resolution:
-      integrity: sha512-5HHVg+HBuBE0KLPIb/Moca31u02qLE7kAXV7O/NIikxocVUlcNCoI2tALnih09h/FL/g1eyg4m6ykg7z3h9Jsg==
   /balanced-match/1.0.0:
     dev: true
     resolution:
@@ -662,6 +658,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-kdRWLBIJwdsYJWYJFtAFFYxybguqeF91qpZaggjG5Nf8QKdizFG2hjqvaTXbxFIcYbSaD74KpAXv6BSm17DHEQ==
+  /classnames/2.2.6:
+    dev: true
+    resolution:
+      integrity: sha512-JR/iSQOSt+LQIWwrwEzJ9uk0xfN3mTVYMwt1Ir5mUcSN6pU+V4zQFFaJsclJbPuAUQH+yfWef6tm7l1quW3C8Q==
   /cli-boxes/2.2.1:
     dev: true
     engines:
@@ -3386,8 +3386,8 @@ packages:
 specifiers:
   '@rollup/plugin-commonjs': 18.0.0
   '@rollup/plugin-node-resolve': 11.2.1
-  autopublish-template: 20.0.20
   chai: 4.3.4
+  classnames: ^2.2.6
   concurrently: 6.0.0
   husky: 6.0.0
   karma: 6.3.2
