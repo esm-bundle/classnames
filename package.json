@@ -36,7 +36,7 @@
     "@rollup/plugin-commonjs": "18.0.0",
     "@rollup/plugin-node-resolve": "11.2.1",
     "chai": "4.3.4",
-    "classnames": "^2.2.6",
+    "classnames": "2.3.0",
     "concurrently": "6.0.0",
     "husky": "6.0.0",
     "karma": "6.3.2",
