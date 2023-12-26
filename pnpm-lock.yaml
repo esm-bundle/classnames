@@ -4,7 +4,7 @@ specifiers:
   '@rollup/plugin-commonjs': 25.0.7
   '@rollup/plugin-node-resolve': 15.2.3
   chai: 4.3.4
-  classnames: 2.3.3
+  classnames: 2.4.0
   concurrently: 8.2.2
   husky: 8.0.3
   karma: 6.4.2
@@ -23,7 +23,7 @@ devDependencies:
   '@rollup/plugin-commonjs': 25.0.7_rollup@2.79.1
   '@rollup/plugin-node-resolve': 15.2.3_rollup@2.79.1
   chai: 4.3.4
-  classnames: 2.3.3
+  classnames: 2.4.0
   concurrently: 8.2.2
   husky: 8.0.3
   karma: 6.4.2
@@ -740,8 +740,8 @@ packages:
     resolution: {integrity: sha512-dVqRX7fLUm8J6FgHJ418XuIgDLZDkYcDFTeL6TA2gt5WlIZUQrrH6EZrNClwT/H0FateUsZkGIOPRrLbP+PR9A==}
     dev: true
 
-  /classnames/2.3.3:
-    resolution: {integrity: sha512-1inzZmicIFcmUya7PGtUQeXtcF7zZpPnxtQoYOrz0uiOBGlLFa4ik4361seYL2JCcRDIyfdFHiwQolESFlw+Og==}
+  /classnames/2.4.0:
+    resolution: {integrity: sha512-lWxiIlphgAhTLN657pwU/ofFxsUTOWc2CRIFeoV5st0MGRJHStUnWIUJgDHxjUO/F0mXzGufXIM4Lfu/8h+MpA==}
     dev: true
 
   /cli-boxes/3.0.0:
